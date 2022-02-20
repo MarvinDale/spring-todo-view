@@ -1,0 +1,11 @@
+* {
+  text-align: center;
+  font-family: monospace;
+}
+
+.todo {
+  outline-color: black;
+  outline-style: inset;
+  width: 50%;
+  margin: auto;
+}
